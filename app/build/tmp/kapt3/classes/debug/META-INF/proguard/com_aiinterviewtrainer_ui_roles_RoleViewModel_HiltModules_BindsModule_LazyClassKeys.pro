@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.aiinterviewtrainer.ui.roles.RoleViewModel

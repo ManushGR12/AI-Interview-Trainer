@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234476756420",
+    "project_id": "aiinterviewtrainer",
+    "storage_bucket": "aiinterviewtrainer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234476756420:android:c6d8e6cb0aac8705251891",
+        "android_client_info": {
+          "package_name": "com.aiinterviewtrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234476756420-d2ns4rqt54sufhfh92h88q1am9ojvuqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYornwPqKHR2LUEei95shpW87gghinADI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234476756420-d2ns4rqt54sufhfh92h88q1am9ojvuqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

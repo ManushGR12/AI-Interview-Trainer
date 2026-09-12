@@ -1,0 +1,21 @@
+package com.aiinterviewtrainer.data.repository;
+
+import com.aiinterviewtrainer.data.model.User;
+import com.google.firebase.firestore.FirebaseFirestore;
+import javax.inject.Inject;
+import javax.inject.Singleton;
+
+@javax.inject.Singleton()
+@kotlin.Metadata(mv = {2, 2, 0}, k = 1, xi = 48, d1 = {"\u0000J\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0004\n\u0002\u0010\u000e\n\u0002\b\u0004\n\u0002\u0010$\n\u0002\b\u0004\n\u0002\u0010 \n\u0002\b\u0010\n\u0002\u0018\u0002\n\u0002\b\u0003\b\u0007\u0018\u00002\u00020\u0001B\u0011\b\u0007\u0012\u0006\u0010\u0002\u001a\u00020\u0003\u00a2\u0006\u0004\b\u0004\u0010\u0005J\u001e\u0010\b\u001a\b\u0012\u0004\u0012\u00020\n0\t2\u0006\u0010\u000b\u001a\u00020\fH\u0086@\u00a2\u0006\u0004\b\r\u0010\u000eJ\u001e\u0010\u000f\u001a\b\u0012\u0004\u0012\u00020\f0\t2\u0006\u0010\u0010\u001a\u00020\u0011H\u0086@\u00a2\u0006\u0004\b\u0012\u0010\u0013J2\u0010\u0014\u001a\b\u0012\u0004\u0012\u00020\n0\t2\u0006\u0010\u0010\u001a\u00020\u00112\u0012\u0010\u0015\u001a\u000e\u0012\u0004\u0012\u00020\u0011\u0012\u0004\u0012\u00020\u00010\u0016H\u0086@\u00a2\u0006\u0004\b\u0017\u0010\u0018J,\u0010\u0019\u001a\b\u0012\u0004\u0012\u00020\n0\t2\u0006\u0010\u0010\u001a\u00020\u00112\f\u0010\u001a\u001a\b\u0012\u0004\u0012\u00020\u00110\u001bH\u0086@\u00a2\u0006\u0004\b\u001c\u0010\u001dJF\u0010\u001e\u001a\b\u0012\u0004\u0012\u00020\n0\t2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\u001f\u001a\u00020\u00112\u0006\u0010 \u001a\u00020\u00112\u0006\u0010!\u001a\u00020\u00112\u0006\u0010\"\u001a\u00020\u00112\u0006\u0010#\u001a\u00020\u0011H\u0086@\u00a2\u0006\u0004\b$\u0010%J&\u0010&\u001a\b\u0012\u0004\u0012\u00020\n0\t2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010\'\u001a\u00020\u0011H\u0086@\u00a2\u0006\u0004\b(\u0010)J&\u0010*\u001a\b\u0012\u0004\u0012\u00020\n0\t2\u0006\u0010\u0010\u001a\u00020\u00112\u0006\u0010+\u001a\u00020,H\u0086@\u00a2\u0006\u0004\b-\u0010.R\u000e\u0010\u0002\u001a\u00020\u0003X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0006\u001a\u00020\u0007X\u0082\u0004\u00a2\u0006\u0002\n\u0000\u00a8\u0006/"}, d2 = {"Lcom/aiinterviewtrainer/data/repository/UserRepository;", "", "firestore", "Lcom/google/firebase/firestore/FirebaseFirestore;", "<init>", "(Lcom/google/firebase/firestore/FirebaseFirestore;)V", "usersCollection", "Lcom/google/firebase/firestore/CollectionReference;", "saveUser", "Lkotlin/Result;", "", "user", "Lcom/aiinterviewtrainer/data/model/User;", "saveUser-gIAlu-s", "(Lcom/aiinterviewtrainer/data/model/User;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "getUser", "uid", "", "getUser-gIAlu-s", "(Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "updateUser", "updates", "", "updateUser-0E7RQCE", "(Ljava/lang/String;Ljava/util/Map;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "updateSelectedRoles", "roles", "", "updateSelectedRoles-0E7RQCE", "(Ljava/lang/String;Ljava/util/List;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "updateProfileInfo", "name", "college", "graduationYear", "degree", "photoPath", "updateProfileInfo-bMdYcbs", "(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "updateResumePath", "resumePath", "updateResumePath-0E7RQCE", "(Ljava/lang/String;Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "saveResumeAnalysis", "analysis", "Lcom/aiinterviewtrainer/data/repository/ResumeAnalysis;", "saveResumeAnalysis-0E7RQCE", "(Ljava/lang/String;Lcom/aiinterviewtrainer/data/repository/ResumeAnalysis;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "app_debug"})
+public final class UserRepository {
+    @org.jetbrains.annotations.NotNull()
+    private final com.google.firebase.firestore.FirebaseFirestore firestore = null;
+    @org.jetbrains.annotations.NotNull()
+    private final com.google.firebase.firestore.CollectionReference usersCollection = null;
+    
+    @javax.inject.Inject()
+    public UserRepository(@org.jetbrains.annotations.NotNull()
+    com.google.firebase.firestore.FirebaseFirestore firestore) {
+        super();
+    }
+}

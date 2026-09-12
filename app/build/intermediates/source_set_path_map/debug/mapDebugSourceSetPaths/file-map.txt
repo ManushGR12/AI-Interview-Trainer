@@ -1,0 +1,81 @@
+com.aiinterviewtrainer.app-pngs-0 C:\Interview trainer\AIInterviewTrainer\app\build\generated\res\pngs\debug
+com.aiinterviewtrainer.app-res-1 C:\Interview trainer\AIInterviewTrainer\app\build\generated\res\processDebugGoogleServices
+com.aiinterviewtrainer.app-resValues-2 C:\Interview trainer\AIInterviewTrainer\app\build\generated\res\resValues\debug
+com.aiinterviewtrainer.app-updated_navigation_xml-3 C:\Interview trainer\AIInterviewTrainer\app\build\generated\updated_navigation_xml\debug
+com.aiinterviewtrainer.app-packageDebugResources-4 C:\Interview trainer\AIInterviewTrainer\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.aiinterviewtrainer.app-packageDebugResources-5 C:\Interview trainer\AIInterviewTrainer\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.aiinterviewtrainer.app-debug-6 C:\Interview trainer\AIInterviewTrainer\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.aiinterviewtrainer.app-debug-7 C:\Interview trainer\AIInterviewTrainer\app\src\debug\res
+com.aiinterviewtrainer.app-main-8 C:\Interview trainer\AIInterviewTrainer\app\src\main\res
+com.aiinterviewtrainer.app-annotation-experimental-1.4.1-9 C:\Users\Manush G R\.gradle\caches\8.13\transforms\0092591ad14ca2a92b9153979a4d3096\transformed\annotation-experimental-1.4.1\res
+com.aiinterviewtrainer.app-animation-release-10 C:\Users\Manush G R\.gradle\caches\8.13\transforms\0246214bac01ec4a7852ecbaaae0c642\transformed\animation-release\res
+com.aiinterviewtrainer.app-graphics-path-1.0.1-11 C:\Users\Manush G R\.gradle\caches\8.13\transforms\02e215ebb40b1be3a0ad4288b6f364ee\transformed\graphics-path-1.0.1\res
+com.aiinterviewtrainer.app-core-ktx-1.13.1-12 C:\Users\Manush G R\.gradle\caches\8.13\transforms\071bca3eda1b98f86d39fb33a6b087f6\transformed\core-ktx-1.13.1\res
+com.aiinterviewtrainer.app-activity-ktx-1.9.2-13 C:\Users\Manush G R\.gradle\caches\8.13\transforms\0a790a6e530293f0663bc721ea64efe6\transformed\activity-ktx-1.9.2\res
+com.aiinterviewtrainer.app-core-runtime-2.2.0-14 C:\Users\Manush G R\.gradle\caches\8.13\transforms\0b4df740354e46d054f8cfbd20c17c17\transformed\core-runtime-2.2.0\res
+com.aiinterviewtrainer.app-camera-view-1.3.4-15 C:\Users\Manush G R\.gradle\caches\8.13\transforms\104b530f4ded6b692463f82252714d59\transformed\camera-view-1.3.4\res
+com.aiinterviewtrainer.app-coil-base-2.7.0-16 C:\Users\Manush G R\.gradle\caches\8.13\transforms\1497b39d2ce95cdb1b0a55a6b884c3b3\transformed\coil-base-2.7.0\res
+com.aiinterviewtrainer.app-ui-text-release-17 C:\Users\Manush G R\.gradle\caches\8.13\transforms\15a79be9290998a2f8ec30289f3fbe1e\transformed\ui-text-release\res
+com.aiinterviewtrainer.app-lifecycle-process-2.8.6-18 C:\Users\Manush G R\.gradle\caches\8.13\transforms\18cfdbc62ad1942100ebeffd788cf3b4\transformed\lifecycle-process-2.8.6\res
+com.aiinterviewtrainer.app-ui-tooling-preview-release-19 C:\Users\Manush G R\.gradle\caches\8.13\transforms\1d24e3213a78ca2bf3b674990c684f8d\transformed\ui-tooling-preview-release\res
+com.aiinterviewtrainer.app-material-ripple-release-20 C:\Users\Manush G R\.gradle\caches\8.13\transforms\20580803646d64e06bb5e4114fc5ed1c\transformed\material-ripple-release\res
+com.aiinterviewtrainer.app-savedstate-ktx-1.2.1-21 C:\Users\Manush G R\.gradle\caches\8.13\transforms\242da377d0ed7251438c18b886572b0e\transformed\savedstate-ktx-1.2.1\res
+com.aiinterviewtrainer.app-ui-graphics-release-22 C:\Users\Manush G R\.gradle\caches\8.13\transforms\24fc8a2dd5cd1d3d79d2750e3f24ffb7\transformed\ui-graphics-release\res
+com.aiinterviewtrainer.app-activity-1.9.2-23 C:\Users\Manush G R\.gradle\caches\8.13\transforms\2501dd97e99b99f14c5bf97a605ab9e3\transformed\activity-1.9.2\res
+com.aiinterviewtrainer.app-lifecycle-livedata-2.8.6-24 C:\Users\Manush G R\.gradle\caches\8.13\transforms\2889bf8b27e6ac9e612ba2cc4f26a70c\transformed\lifecycle-livedata-2.8.6\res
+com.aiinterviewtrainer.app-ui-unit-release-25 C:\Users\Manush G R\.gradle\caches\8.13\transforms\2a385afcd4d3f5c41a5804d405390494\transformed\ui-unit-release\res
+com.aiinterviewtrainer.app-ui-tooling-data-release-26 C:\Users\Manush G R\.gradle\caches\8.13\transforms\2fe04f7087ec4d6b1c6c0dbe3bc65928\transformed\ui-tooling-data-release\res
+com.aiinterviewtrainer.app-ui-util-release-27 C:\Users\Manush G R\.gradle\caches\8.13\transforms\30ca4ee24454cb60bf1ae9f491ab9db8\transformed\ui-util-release\res
+com.aiinterviewtrainer.app-lifecycle-runtime-release-28 C:\Users\Manush G R\.gradle\caches\8.13\transforms\3381873051fd41811ff5b71997cb6fb9\transformed\lifecycle-runtime-release\res
+com.aiinterviewtrainer.app-hilt-navigation-compose-1.2.0-29 C:\Users\Manush G R\.gradle\caches\8.13\transforms\3e5f47415aa7fb721bcf0cff58bed745\transformed\hilt-navigation-compose-1.2.0\res
+com.aiinterviewtrainer.app-firebase-common-21.0.0-30 C:\Users\Manush G R\.gradle\caches\8.13\transforms\41f1f7491182e1083a858d9236962a3f\transformed\firebase-common-21.0.0\res
+com.aiinterviewtrainer.app-material-icons-core-release-31 C:\Users\Manush G R\.gradle\caches\8.13\transforms\446139cb32911d6bcefdf2a39cdaea24\transformed\material-icons-core-release\res
+com.aiinterviewtrainer.app-lifecycle-livedata-core-ktx-2.8.6-32 C:\Users\Manush G R\.gradle\caches\8.13\transforms\473a79bddc78ae9ea91dddc188306850\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.aiinterviewtrainer.app-appcompat-1.6.1-33 C:\Users\Manush G R\.gradle\caches\8.13\transforms\498db7911a2ba6b40d5de606ffd2ee62\transformed\appcompat-1.6.1\res
+com.aiinterviewtrainer.app-play-services-base-18.5.0-34 C:\Users\Manush G R\.gradle\caches\8.13\transforms\54e0ab937f017b99863f57945b3686fb\transformed\play-services-base-18.5.0\res
+com.aiinterviewtrainer.app-camera-video-1.3.4-35 C:\Users\Manush G R\.gradle\caches\8.13\transforms\5fedd5f5fc920afdd2dfbd30466a2f55\transformed\camera-video-1.3.4\res
+com.aiinterviewtrainer.app-material-release-36 C:\Users\Manush G R\.gradle\caches\8.13\transforms\60158556ed3734de4bbf34afee8f1126\transformed\material-release\res
+com.aiinterviewtrainer.app-savedstate-1.2.1-37 C:\Users\Manush G R\.gradle\caches\8.13\transforms\6386249034d3bd69937a892f731ca369\transformed\savedstate-1.2.1\res
+com.aiinterviewtrainer.app-datastore-release-38 C:\Users\Manush G R\.gradle\caches\8.13\transforms\6760f1889466e5ebde99761aaf7d7c1e\transformed\datastore-release\res
+com.aiinterviewtrainer.app-credentials-1.2.0-rc01-39 C:\Users\Manush G R\.gradle\caches\8.13\transforms\6976d989cb55cffda3974fee949a53e5\transformed\credentials-1.2.0-rc01\res
+com.aiinterviewtrainer.app-play-services-basement-18.4.0-40 C:\Users\Manush G R\.gradle\caches\8.13\transforms\6a67b795da2ca56e55d81666f614ff8f\transformed\play-services-basement-18.4.0\res
+com.aiinterviewtrainer.app-navigation-common-2.8.2-41 C:\Users\Manush G R\.gradle\caches\8.13\transforms\6c418819019fe074f82c09251d1c78af\transformed\navigation-common-2.8.2\res
+com.aiinterviewtrainer.app-fragment-1.5.7-42 C:\Users\Manush G R\.gradle\caches\8.13\transforms\7abd1892e042ed9cff916f546da5ce2f\transformed\fragment-1.5.7\res
+com.aiinterviewtrainer.app-lifecycle-runtime-ktx-release-43 C:\Users\Manush G R\.gradle\caches\8.13\transforms\7d8ea0d67a7024f0a481f9b6e4b3ed82\transformed\lifecycle-runtime-ktx-release\res
+com.aiinterviewtrainer.app-navigation-runtime-2.8.2-44 C:\Users\Manush G R\.gradle\caches\8.13\transforms\7dc565b6123f93ba9442b8fdcbba227e\transformed\navigation-runtime-2.8.2\res
+com.aiinterviewtrainer.app-lifecycle-runtime-compose-release-45 C:\Users\Manush G R\.gradle\caches\8.13\transforms\7e4066df0e887956b2026bec8cc66cae\transformed\lifecycle-runtime-compose-release\res
+com.aiinterviewtrainer.app-startup-runtime-1.1.1-46 C:\Users\Manush G R\.gradle\caches\8.13\transforms\82e101c9caa69fd187998f67bd723c8e\transformed\startup-runtime-1.1.1\res
+com.aiinterviewtrainer.app-navigation-compose-2.8.2-47 C:\Users\Manush G R\.gradle\caches\8.13\transforms\84d307fb46bf8c13cc4035eb5e3d3022\transformed\navigation-compose-2.8.2\res
+com.aiinterviewtrainer.app-material3-release-48 C:\Users\Manush G R\.gradle\caches\8.13\transforms\867c3859f57d51740a25899d874db6c1\transformed\material3-release\res
+com.aiinterviewtrainer.app-credentials-play-services-auth-1.2.0-rc01-49 C:\Users\Manush G R\.gradle\caches\8.13\transforms\9246f83af159b36300bb8f6ab60e5fc0\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.aiinterviewtrainer.app-datastore-preferences-release-50 C:\Users\Manush G R\.gradle\caches\8.13\transforms\92e21547445856e13a7be22f82d46188\transformed\datastore-preferences-release\res
+com.aiinterviewtrainer.app-runtime-release-51 C:\Users\Manush G R\.gradle\caches\8.13\transforms\93012eaafe231c1f0b21b2f0e3cd8bc6\transformed\runtime-release\res
+com.aiinterviewtrainer.app-camera-camera2-1.3.4-52 C:\Users\Manush G R\.gradle\caches\8.13\transforms\944484b6ff7ed9a63e9b4d75eb205360\transformed\camera-camera2-1.3.4\res
+com.aiinterviewtrainer.app-customview-poolingcontainer-1.0.0-53 C:\Users\Manush G R\.gradle\caches\8.13\transforms\96b338d07a889084baa9d479f9803262\transformed\customview-poolingcontainer-1.0.0\res
+com.aiinterviewtrainer.app-emoji2-views-helper-1.3.0-54 C:\Users\Manush G R\.gradle\caches\8.13\transforms\9b21f7097d057f31055f09f7cfcf72b7\transformed\emoji2-views-helper-1.3.0\res
+com.aiinterviewtrainer.app-ui-tooling-release-55 C:\Users\Manush G R\.gradle\caches\8.13\transforms\9d2a8db2bb0dc49ab82050071c0086e9\transformed\ui-tooling-release\res
+com.aiinterviewtrainer.app-datastore-core-release-56 C:\Users\Manush G R\.gradle\caches\8.13\transforms\a0e71a0a2204521b46bba9f2d844a6a4\transformed\datastore-core-release\res
+com.aiinterviewtrainer.app-animation-core-release-57 C:\Users\Manush G R\.gradle\caches\8.13\transforms\a19138c42d2a7cfd542b4ec9bc1ca017\transformed\animation-core-release\res
+com.aiinterviewtrainer.app-appcompat-resources-1.6.1-58 C:\Users\Manush G R\.gradle\caches\8.13\transforms\a2f0b800890577cfb638458d81ad7abb\transformed\appcompat-resources-1.6.1\res
+com.aiinterviewtrainer.app-camera-lifecycle-1.3.4-59 C:\Users\Manush G R\.gradle\caches\8.13\transforms\a791209a4d776e1e55a680f1aa379513\transformed\camera-lifecycle-1.3.4\res
+com.aiinterviewtrainer.app-hilt-navigation-1.2.0-60 C:\Users\Manush G R\.gradle\caches\8.13\transforms\a94bb37091c5b124dfb81db4e93badbb\transformed\hilt-navigation-1.2.0\res
+com.aiinterviewtrainer.app-play-services-auth-21.2.0-61 C:\Users\Manush G R\.gradle\caches\8.13\transforms\ac04de08b24b5d949d4bf43fac950ae7\transformed\play-services-auth-21.2.0\res
+com.aiinterviewtrainer.app-foundation-layout-release-62 C:\Users\Manush G R\.gradle\caches\8.13\transforms\b7d279e78dc82d1513f8d1bdfa7ff21e\transformed\foundation-layout-release\res
+com.aiinterviewtrainer.app-ui-geometry-release-63 C:\Users\Manush G R\.gradle\caches\8.13\transforms\b9b047c08499d638bf07adaa152d98df\transformed\ui-geometry-release\res
+com.aiinterviewtrainer.app-lifecycle-viewmodel-savedstate-2.8.6-64 C:\Users\Manush G R\.gradle\caches\8.13\transforms\bf48e851736e2dcc6cd2098800f576d2\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.aiinterviewtrainer.app-lifecycle-livedata-core-2.8.6-65 C:\Users\Manush G R\.gradle\caches\8.13\transforms\c0cbde43cf502f0138854068406eb6d6\transformed\lifecycle-livedata-core-2.8.6\res
+com.aiinterviewtrainer.app-navigation-common-ktx-2.8.2-66 C:\Users\Manush G R\.gradle\caches\8.13\transforms\cc85d4226c801050bd9bdbba7f90fa7c\transformed\navigation-common-ktx-2.8.2\res
+com.aiinterviewtrainer.app-navigation-runtime-ktx-2.8.2-67 C:\Users\Manush G R\.gradle\caches\8.13\transforms\ce14610768f31ffe1d154b97f577d8af\transformed\navigation-runtime-ktx-2.8.2\res
+com.aiinterviewtrainer.app-core-1.13.1-68 C:\Users\Manush G R\.gradle\caches\8.13\transforms\d07cc55d47f4324bf5827b511e6155f8\transformed\core-1.13.1\res
+com.aiinterviewtrainer.app-lifecycle-viewmodel-release-69 C:\Users\Manush G R\.gradle\caches\8.13\transforms\d1d1d00d752c25d5452d43d13617709e\transformed\lifecycle-viewmodel-release\res
+com.aiinterviewtrainer.app-profileinstaller-1.3.1-70 C:\Users\Manush G R\.gradle\caches\8.13\transforms\dc75148f357bb4f8d043725f4dae4e2a\transformed\profileinstaller-1.3.1\res
+com.aiinterviewtrainer.app-material-icons-extended-release-71 C:\Users\Manush G R\.gradle\caches\8.13\transforms\df174ff02f88b6446c5a876a838acb6b\transformed\material-icons-extended-release\res
+com.aiinterviewtrainer.app-lifecycle-viewmodel-compose-release-72 C:\Users\Manush G R\.gradle\caches\8.13\transforms\df7e9b1806eaf109eafde76fdb4fdea0\transformed\lifecycle-viewmodel-compose-release\res
+com.aiinterviewtrainer.app-runtime-saveable-release-73 C:\Users\Manush G R\.gradle\caches\8.13\transforms\e3171d078695ebe19f883b68a1527956\transformed\runtime-saveable-release\res
+com.aiinterviewtrainer.app-lifecycle-viewmodel-ktx-2.8.6-74 C:\Users\Manush G R\.gradle\caches\8.13\transforms\e952dcd3feac28a1f3ce36d129d11bd8\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.aiinterviewtrainer.app-emoji2-1.3.0-75 C:\Users\Manush G R\.gradle\caches\8.13\transforms\ed65a814fd1a34c9a0a1e6610ba0a1ab\transformed\emoji2-1.3.0\res
+com.aiinterviewtrainer.app-camera-core-1.3.4-76 C:\Users\Manush G R\.gradle\caches\8.13\transforms\ee09ea19ad9c395c66cf86fb1c45ab46\transformed\camera-core-1.3.4\res
+com.aiinterviewtrainer.app-foundation-release-77 C:\Users\Manush G R\.gradle\caches\8.13\transforms\f0509ea78e94728ce2469638364caa2c\transformed\foundation-release\res
+com.aiinterviewtrainer.app-browser-1.4.0-78 C:\Users\Manush G R\.gradle\caches\8.13\transforms\f9717d393b5005c412957bd7aaa8c0de\transformed\browser-1.4.0\res
+com.aiinterviewtrainer.app-ui-release-79 C:\Users\Manush G R\.gradle\caches\8.13\transforms\fab58adbb60d69fd0ef76633eee2ecc0\transformed\ui-release\res
+com.aiinterviewtrainer.app-activity-compose-1.9.2-80 C:\Users\Manush G R\.gradle\caches\8.13\transforms\fdd91dd53986ca9abe4944c6e9dedbd8\transformed\activity-compose-1.9.2\res

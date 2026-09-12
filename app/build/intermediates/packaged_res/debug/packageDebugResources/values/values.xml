@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Interview Trainer</string>
+    <string name="default_web_client_id" translatable="false">234476756420-d2ns4rqt54sufhfh92h88q1am9ojvuqq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">234476756420</string>
+    <string name="google_api_key" translatable="false">AIzaSyCYornwPqKHR2LUEei95shpW87gghinADI</string>
+    <string name="google_app_id" translatable="false">1:234476756420:android:c6d8e6cb0aac8705251891</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCYornwPqKHR2LUEei95shpW87gghinADI</string>
+    <string name="google_storage_bucket" translatable="false">aiinterviewtrainer.firebasestorage.app</string>
+    <string name="project_id" translatable="false">aiinterviewtrainer</string>
+    <style name="Theme.AIInterviewTrainer" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
